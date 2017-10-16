@@ -8,6 +8,7 @@
 export { default as linearRegression } from './src/linear_regression';
 export { default as linearRegressionLine } from './src/linear_regression_line';
 export { default as standardDeviation } from './src/standard_deviation';
+export { default as standardError } from './src/standard_error';
 export { default as rSquared } from './src/r_squared';
 export { default as mode } from './src/mode';
 export { default as modeFast } from './src/mode_fast';
